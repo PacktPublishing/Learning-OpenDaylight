@@ -1,4 +1,4 @@
-# Learning OpenDayLight
+# Learning OpenDaylight
 This is the code repository for [Learning OpenDayLight](https://www.packtpub.com/networking-and-servers/learning-opendaylight?utm_source=github&utm_medium=repository&utm_campaign=9781782174523), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 OpenDaylight is an open source, software-defined network controller based on standard protocols. It aims to accelerate the adoption of Software-Defined Networking (SDN) and create a solid foundation for Network Functions Virtualization (NFV).
@@ -20,12 +20,12 @@ The code will look like the following:
 In order to keep up with the book, you will need to spend some time learning basic coding.
 Ensure that you have the following software installed:
 
-Oracle VirtualBox Or VMware workstation
-Ubuntu 16 server as base operating system for installation of OpenDaylight
-Mininet virtual appliance
-OpenDaylight Beryllium-SR4
-VTN coordinator
-PacketFence module for OpenDaylight
+* Oracle VirtualBox Or VMware workstation
+* Ubuntu 16 server as base operating system for installation of OpenDaylight
+* Mininet virtual appliance
+* OpenDaylight Beryllium-SR4
+* VTN coordinator
+* PacketFence module for OpenDaylight
 
 ## Related Products
 * [OpenDaylight Cookbook](https://www.packtpub.com/virtualization-and-cloud/opendaylight-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781786462305)
