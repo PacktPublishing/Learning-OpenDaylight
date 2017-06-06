@@ -4,7 +4,7 @@ This is the code repository for [Learning OpenDayLight](https://www.packtpub.com
 OpenDaylight is an open source, software-defined network controller based on standard protocols. It aims to accelerate the adoption of Software-Defined Networking (SDN) and create a solid foundation for Network Functions Virtualization (NFV).
 
 ## Instructions and Navigation
-All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
+All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter05.
 
 
 
